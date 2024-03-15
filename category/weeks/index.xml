@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeks | Academic</title>
+    <link>http://localhost:1313/category/weeks/</link>
+      <atom:link href="http://localhost:1313/category/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weeks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Weeks</title>
+      <link>http://localhost:1313/category/weeks/</link>
+    </image>
+    
+    <item>
+      <title>Week from 04.03 to 10.03</title>
+      <link>http://localhost:1313/post/week_summory/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/week_summory/</guid>
+      <description>&lt;h2 id=&#34;архитектура-компьютеров&#34;&gt;Архитектура компьютеров&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе, я наконец-то смогла закончить выполнение всех лабораторных работ по Архитектуре компьютера.
+Это было тяжело, много времени уходило на создание отчетов и презентаций. Иногда что-то не сохранялось и
+было очень обидно все переписывать. Однако все задания сделаны и можно переходить к выполнению следующих работ.
+Также, немаловажно, я сделала первую индивидуальную работу, в плане, часть 1 и начала выполнение курсов на Stepik&lt;/p&gt;
+&lt;h2 id=&#34;технологии-программирования&#34;&gt;Технологии программирования&lt;/h2&gt;
+&lt;p&gt;По данной дисциплине, я сделала лабораторную работу на языке С++ по теме Списки. Это был интересный и полезный опыт.&lt;/p&gt;
+&lt;h2 id=&#34;компьюетрный-практикум&#34;&gt;Компьюетрный практикум&lt;/h2&gt;
+&lt;p&gt;По данному предмету, я сделала 2 лабораторныe работы, первую - на языке программирования Кotin, а вторую на
+языке прораммирования Java. На самом деле JAva - моя любовь уже очень давно и мне бы хотелось карьерно развиваться в
+этом направлении.&lt;/p&gt;
+&lt;h2 id=&#34;выводы--мысли&#34;&gt;Выводы / мысли&lt;/h2&gt;
+&lt;p&gt;С нетерпением жду, когда закончу все задания по всем возможным предметам, чтобы наконец перейти к саморазвитию и
+изучению интересного мне ЯП&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
